@@ -35,7 +35,7 @@ Rotate gate colockwise -> WheelUp
 Rotate gate counter-clockwise -> WheelDown  
   
 ### Page - Villager build  
-Cancel -> F11  
+Cancel -> F10  
 Set all remaining buildings to whatever single lowercase alphabetical character key you want...  
 ...so long as its unique to that building whether its milatry or eco.  
 

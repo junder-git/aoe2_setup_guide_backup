@@ -1,5 +1,5 @@
 ﻿$XButton2::
-    Send, {F11}
+    Send, {F10}
     Sleep, ms
     Send, {F11}
     Sleep, ms
@@ -7,14 +7,14 @@
 return
 
 $XButton1::
-    Send, {F11}
+    Send, {F10}
     Sleep, ms
     Send, {XButton1}
 return
 
 BuildBuilding(key, ms:=30)
 {
-    Send, {F11}
+    Send, {F10}
     Sleep, ms
     Send, {F12}
     Sleep, ms
