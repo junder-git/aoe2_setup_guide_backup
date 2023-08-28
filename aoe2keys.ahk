@@ -1,14 +1,14 @@
 ﻿$XButton2::
     Send, {F10}
-    Sleep, ms
+    Sleep, 30
     Send, {F11}
-    Sleep, ms
+    Sleep, 30
     Send, {XButton2}
 return
 
 $XButton1::
     Send, {F10}
-    Sleep, ms
+    Sleep, 30
     Send, {XButton1}
 return
 
