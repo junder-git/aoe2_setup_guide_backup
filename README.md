@@ -54,6 +54,8 @@ ALSO it gives waypoint control every time the button is pressed
 ALSO if vills are docked in TC it will ungarisson them before you proceed to q further villagers per press (with right click as garison enabled)
   
 ## Extrabutton1  
-The Extra button one works well with sending vils from TC back to work (with right click as garison enabled)
+The Extra button one works well with sending vils from TC back to work (with right click as garison enabled)  
+it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
+when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
 

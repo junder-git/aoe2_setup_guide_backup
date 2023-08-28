@@ -1,8 +1,4 @@
-﻿;1- In aoe2change the cancel the build menu with defaut "b" key to F11, 
-;2- build economy default "q" to F12. 
-;3- set any build key to any of the alphabet in aoe2 villager build section 
-
-$XButton2:: ; Garrison and Set gather point and Select all town centers
+﻿$XButton2::
     Send, {F11}
     Sleep, ms
     Send, {F11}
@@ -10,6 +6,11 @@ $XButton2:: ; Garrison and Set gather point and Select all town centers
     Send, {XButton2}
 return
 
+$XButton1::
+    Send, {F11}
+    Sleep, ms
+    Send, {XButton1}
+return
 
 BuildBuilding(key, ms:=30)
 {
@@ -47,8 +48,3 @@ $w::BuildBuilding("w")
 $x::BuildBuilding("x")
 $y::BuildBuilding("y")
 $z::BuildBuilding("z")
-
-
-;up and down arrows --> Zoom
-;mouse wheel up/down --> rotate gate
-;F11 --> villager build
