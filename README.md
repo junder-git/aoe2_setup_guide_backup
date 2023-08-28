@@ -18,7 +18,7 @@ Garrison -> UNBIND
 Military Buildings -> UNBIND  
 Set Gather Boint -> Extrabutton2 
 Ungarrison -> Extrabutton2 
-Delete Unit -> Space
+Delete Unit -> MiddleButton
   
 ### Page - Game commands  
 Select all town centers -> Extrabutton2  
