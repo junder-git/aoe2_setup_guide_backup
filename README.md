@@ -63,7 +63,7 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
 ## Team strat to test in-game...  
 
-2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD.  
+2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD for castle age end game push.   
 Need to test trial the universal market value drop of food when sold in excess for the Burgundian player to buy, hopefully without the other team noticing market prices of food drop significantly when food is sold.  
   
 Hopefully, by risking the open market prices, the 30% loss in res could be part mitigated by this 'indirect' tribute, to calculate how much food needs to be sold by pole for this to be efficient is determined by the cost of a single cavaliers ratio of food to gold cost, something like 50:35 or 10:7, the 30% gold loss from gold sent and the bought food price also needs to be a determining factor to get the optimal amount of both quantities for max unit creation.   
