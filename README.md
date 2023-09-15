@@ -73,9 +73,9 @@ This unit needs fair price ratio set to 12:7 for food...
 Any 100 batch of food sell made drops fair price by fixed amount of 3,
 (100-58)/3 = 1400 food
 
-Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat even if poles stay dark age for 500 food bank theres no market or stone wall defense... pointless idea for now with poles food :c
-
-Maybe choosing an wood eco bonus civ might provide a decent enough of an initial feudal age wood bank to fling into Saracens for their ok-ish archers instead.   
+Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat, even if poles could stay dark age (market/stone-wall) for 500 food bank nowhere near enough food produce...  
+  
+Maybe choosing an wood eco bonus civ might provide a decent enough of an initial wood bank in feudal age to fling into Saracens ok-ish archers instead.     
 
 
   
