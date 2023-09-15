@@ -68,24 +68,16 @@ Need to test trial the impact on the universal market value drop of resource whe
 By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier. 
 ## 
   
-## Next day a few tests
-Probably needs to be (saracens civ) to (saracens-pole-hybrid civ) i.e. support needs massive initial food bank from laying farms in feudal to provide initial market rates and the maintaining of gold resource gen-rates to buy further food from the supporting civ, to possibly get any value in this castle age push strat:  
+## Next day a few tests  
+Probably needs to be (Saracens attack civ) with (Pole support civ)    
   
-Standard case::: any-civ-1) send 100 food -> any-civ-2) 70 food received... minimal time lost too.  
+For (Saracens) Battle Elephant: 120 Food, 70 Gold  
   
-For a knight 60 food 75 gold the idea is to generate additional gold, but eh, say its the other way around with the desired civ-1 op castle age unit of 75 food and 60 gold with a food>gold ratio... (Try find op castle age unit)  
+This unit needs fair price ratio set to 12:7 for food...  
+Any 100 batch of food sell made drops fair price by fixed amount of 3,  
+(100-58)/3 = 1400 food  
   
-This specific unit fair price ratio needs to be 4:3 so 100 food to 80 gold market price...  
-Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res or civ/player doing it,  
-So 700~ food sell gets this to 100 food to 80 gold in fair price for initial market conditions to be set.  
-  
-Assuming everyones getting feudal with markets setup with no issue, the (saracen-pole) feudal food bank needs to peak fast by laying all possible farms at once for hiiting the market as well as for (saracens) to bye castle. With (saracens-pole) primary focus in feudal on building farms keeping fair market price at 4:3 for food:gold for every buy made by ally plus to stone wall up, not to go castle...   
-  
-Note, in the case of a support to (sell food) -> (send gold) ::: (100-food:76-gold)->(76-gold:54-gold).  
-The 100 food from (saracens-pole) yields 54 gold for player (saracens) in what is now TROOP ONLY gold, no re-buy food with.    
-Player (saracnes) primary focus in fudal is now on gold generation to buy food with, gold gen being much faster then food gen, but scarce on the map, player (saracens) now uses market this new market ratio value to increase resulting food production even when going up to castle age by simply buying (saracens-poles) fuedal age food excess in amounts to reach optimal bank resource for max castle age troop creation. (Note, buying up to the limit of the fuedal age saracens-pole civ food bank of initial farm lay plus catle age time up * food gen rates.)
-  
-Note. Initial food buy-in probs too much for (saracens-poles) civ to handle for setting market conditions and gold gen rates together, mass farm lay by (saracens-poles) to get max food fast to send from remaining fudal age to (saracens) castle age, means the resulting troop push in castle age from (saracens) has to be succesful, cus the current eco is effectively lowered by troop investment in (saracens) castle age with no food for (saracens-pole) to go castle themselves leaving stone wall defense to buy time for that intial (saracens) castle age army produce...  
-  
-Note. Often army will be made in fudaul or even dark age by some players.           
+Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, almost better to just find the ideal dark age food only civ... not viable strat :c     
+
+
   
