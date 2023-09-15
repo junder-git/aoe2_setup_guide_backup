@@ -68,5 +68,5 @@ Need to test trial the universal market value drop of food when sold in excess f
   
 Hopefully, by risking the open market prices, the 30% loss in res could be part mitigated by this 'indirect' tribute, to calculate how much food needs to be sold by pole for this to be efficient is determined by the cost of a single cavaliers ratio of food to gold cost, something like 50:35 or 10:7, the 30% gold loss from gold sent and the bought food price also needs to be a determining factor to get the optimal amount of both quantities for max unit creation.   
   
-So perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a direct player-player food and gold send, to now using a sell/buy food model with just gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)   
+So perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a clasic direct player-player food and gold send, to now using a sell/buy food model with just gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)   
 
