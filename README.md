@@ -61,15 +61,9 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
-## Team strat to test in-game... => Using a sell and buy food/wood model with just gold send.
-2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD for castle age end game push.
-Need to test trial the impact on the universal market value drop of resource when receiving large initial quantity (checkspirtoflawvodmarketingmechs), the Burgundian player can then proceed to batch buy in smaller quantities from the pole player, hopefully done under the radar of the other team noticing global market prices of sed res (food) taking an significant drop.
-
-By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier. 
-## 
+## Team strat to test in-game... => Using a sell and buy food/wood model with just gold send fling strat.   
   
-## Next day a few tests  
-Probably needs to be (Saracens attack civ) with (Pole support civ)    
+Example might be (Saracens attack civ) with (Pole support civ)    
   
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
   
@@ -77,7 +71,7 @@ This unit needs fair price ratio set to 12:7 for food...
 Any 100 batch of food sell made drops fair price by fixed amount of 3,  
 (100-58)/3 = 1400 food  
   
-Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, almost better to just find the ideal dark age food only civ... not viable strat :c     
+Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, almost better to just find the ideal dark age food only civ... not viable strat cus no dark age market :c     
 
 
   
