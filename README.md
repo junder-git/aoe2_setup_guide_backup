@@ -69,9 +69,10 @@ By risking the open market prices in this way the 30% loss in food res sent coul
 ## 
   
 ## Next day a few tests
-Probably needs to be (saracens civ) to (saracens-pole-hybrid civ) i.e. support needs massive initial food bank from laying farms in feudal to provide initial market rates and the maintaining of gold resource gen-rates to buy further food from the supporting civ, to possibly get any value in this castle age push strat:
-Standard case::: player-1) send 100 food -> player-2) 70 food received... minimal time lost too.
-
+Probably needs to be (saracens civ) to (saracens-pole-hybrid civ) i.e. support needs massive initial food bank from laying farms in feudal to provide initial market rates and the maintaining of gold resource gen-rates to buy further food from the supporting civ, to possibly get any value in this castle age push strat:  
+  
+Standard case::: player-1) send 100 food -> player-2) 70 food received... minimal time lost too.  
+  
 Knight is 60 food 75 gold... So idea is to generate additional gold not additional food as well, but eh, say its the other way around with 75 food and 60 gold with a food>gold ratio op unit...
 
 This specific unit fair price ratio needs to be 4:3 so 100 food to 80 gold...
