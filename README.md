@@ -52,7 +52,7 @@ Villager -> F11
 The idea is to spam mouse side button 1 (the easiest to reach at the front of the mouse, Extrbutton2) for villagers no matter the context.
 The ui is a bit glitchy, but it selects all TCs if not selected already then proceeds to que vils on further button presses at a rate of one per press.  
   
-ALSO it gives waypoint control every time the button is pressed  
+ALSO it gives waypoint control every time the button is pressed, kinda meh feature    
   
 ALSO if vills are docked in TC it will ungarisson them before you proceed to q further villagers per press (with right click as garison enabled)
   
