@@ -81,7 +81,7 @@ So 700~ food send gets this to 100 food to 80 gold spend in fair price for initi
   
 After market setup, remaining (saracen-pole) feudal food bank to market interaction now equates to:::  
 (100-food:76-gold)  
-Player ones primary focus is now on keeping fair market price at 4:3 for food:gold in market every buy made by ally...   
+Player ones primary focus is now on keeping fair market price at 4:3 for food:gold for every buy made by ally...   
   
 Note, in the case of a support to (sell food) -> (send gold) ::: (100-food:76-gold)->(76-gold:54-gold).  
 The 100 food from (saracens-pole) yields 54 gold for player (saracens) in what is now TROOP ONLY gold, no re-buy food with.    
