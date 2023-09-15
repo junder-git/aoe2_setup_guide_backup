@@ -68,7 +68,7 @@ Need to test trial the impact on the universal market value drop of resource whe
 By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier. 
 ## 
   
-Next day a few tests::- Needs to be (saracens civ) to (saracens-pole-hybrid) civ i.e. with market rates and initial food gen into resource gen debts in market food-gold fair price trade to get any value in this castle age push:  
+Next day a few tests::- Needs to be (saracens civ) to (saracens-pole-hybrid civ) i.e. with market rates to be set as well gold resource gen-rates to be kept with intial pole food gen for farms trait, to possibly get any value in this castle age push:  
   
 First case::: player-1) send 100 food -> player-2) 70 food received  
   
