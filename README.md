@@ -69,7 +69,8 @@ By risking the open market prices in this way the 30% loss in food res sent coul
   
 Next day a few tests::  
 Needs to be saracens to saracens buy sell which is meh to get any value in this:  
-1) send 100 food -> 2) 70 food received  
+  
+First case::: player-1) send 100 food -> player-2) 70 food received  
   
 Knight is 60 food 75 gold...  
   
@@ -79,7 +80,7 @@ But anyway, say its the other way around with 75 food and 60 gold...
    
 Fair price ratio for this unit needs to be 100 food to 80 gold...  
   
-Selling 100 batch of food drops fair price by 3,  
+Selling 100 batch of food drops fair price by fixed amount of 3 regardsless of available res bank,  
   
 So 700~ food send gets this to 100 food to 80 gold spend in fair price...  
 
