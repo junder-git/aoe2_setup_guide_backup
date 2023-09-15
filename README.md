@@ -61,12 +61,9 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
-## Team strat to test in-game...  
+## Team strat to test in-game... => Using a sell and buy food/wood model with just gold send.
+2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD for castle age end game push.
+Need to test trial the impact on the universal market value drop of resource when receiving large initial quantity (checkspirtoflawvodmarketingmechs), the Burgundian player can then proceed to batch buy in smaller quantities from the pole player, hopefully done under the radar of the other team noticing global market prices of sed res (food) taking an significant drop.
 
-2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD for castle age end game push.   
-Need to test trial the universal market value drop of food when sold in excess for the Burgundian player to buy, hopefully without the other team noticing market prices of food drop significantly when food is sold.  
-  
-By risking the open market prices the 30% loss in res could be potentially part mitigated by this 'indirect' tribute, to calculate how much food needs to be sold by pole for this to be efficient is determined by the cost of a single cavaliers ratio of food to gold cost, something like 50:35 or 10:7, the 30% gold loss from gold sent and the bought food price also needs to be a determining factor to get the optimal amount of both quantities for max unit creation.   
-  
-So perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a clasic direct player-player food and gold send, to now using a sell/buy food model with just gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)   
+By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier.  
 
