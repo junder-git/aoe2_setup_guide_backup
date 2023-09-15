@@ -65,7 +65,8 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 2-player Burgundian castle age cavalier fling, poles to SELL-FOOD and SEND-GOLD for castle age end game push.
 Need to test trial the impact on the universal market value drop of resource when receiving large initial quantity (checkspirtoflawvodmarketingmechs), the Burgundian player can then proceed to batch buy in smaller quantities from the pole player, hopefully done under the radar of the other team noticing global market prices of sed res (food) taking an significant drop.
 
-By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier.  
+By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier. 
+## 
   
 Next day a few tests::- Needs to be saracens to saracens buy sell which is meh to get any value in this:  
   
