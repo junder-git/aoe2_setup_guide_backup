@@ -79,9 +79,8 @@ This specific unit fair price ratio needs to be 4:3 so 100 food to 80 gold marke
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res or civ/player doing it,  
 So 700~ food sell gets this to 100 food to 80 gold in fair price for initial market conditions to be set.  
   
-After market setup, remaining (saracen-pole) feudal food bank to market interaction now equates to:::  
-(100-food:76-gold)  
-Player ones primary focus is now on keeping fair market price at 4:3 for food:gold for every buy made by ally...   
+Assuming everyones getting feudal with markets setup, the (saracen-pole) feudal food bank needs to peak, and now  
+player (saracens-pole) primary focus is on keeping fair market price at 4:3 for food:gold for every buy made by ally and stone wall up, not go castle...   
   
 Note, in the case of a support to (sell food) -> (send gold) ::: (100-food:76-gold)->(76-gold:54-gold).  
 The 100 food from (saracens-pole) yields 54 gold for player (saracens) in what is now TROOP ONLY gold, no re-buy food with.    
