@@ -61,7 +61,7 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
   
-### Strat potential to use feudal age eco civs initial food/wood bank to fling that res to ally Saracens civ through the open market under enemy radar insted of using tribute to minimise the 30% loss.
+### Strat potential to use feudal age eco civs initial wood/food bank to fling wood/food to ally Saracens civ through the open market under enemy radar insted of using tribute to minimise the 30% loss.
 Example might be (Saracens) with (Pole support civ)
 Thought it was more then just 10% intial food farm bonus on the poles but eh...
 
@@ -71,9 +71,9 @@ This unit needs fair price ratio set to 12:7 for food...
 
 Any 100 batch of food sell made drops fair price by fixed amount of 3, (100-58)/3 = 1400 food
 
-Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat, even if poles could stay dark age (market/stone-wall) for 500 food bank nowhere near enough food produce...
-
-Maybe choosing an wood eco bonus civ might provide a decent enough of an initial wood bank in feudal age to "open market" fling into Saracens ok-ish archers instead.     
+Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat, even if poles could stay dark age (market/stone-wall) for 500 food bank nowhere near enough food eco...  
+  
+Maybe choosing an wood eco bonus civ might provide a decent enough of an initial wood bank in feudal age, to then to use this open market model to part mitigate the 30% tribute loss when flinging wood into Saracens ok-ish archers.     
 
 
   
