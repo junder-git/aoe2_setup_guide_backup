@@ -61,19 +61,19 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
   
-### Strat potential to use feudal age eco civs initial wood/food bank to fling wood/food to ally Saracens civ through the open market under enemy radar insted of using tribute to minimise the 30% loss.
-Example might be (Saracens) with (Pole support civ)
-Thought it was more then just 10% intial food farm bonus on the poles but eh...
-
-For (Saracens) Battle Elephant: 120 Food, 70 Gold
-
-This unit needs fair price ratio set to 12:7 for food...
-
-Any 100 batch of food sell made drops fair price by fixed amount of 3, (100-58)/3 = 1400 food
-
-Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat, even if poles could stay dark age (market/stone-wall) for 500 food bank nowhere near enough food eco...  
+### Feudal age Poles to fling food to castle age Saracens via the open market to part mitigate the 30% tribute loss in food.
+    
+For (Saracens) Battle Elephant: 120 Food, 70 Gold  
   
-Maybe choosing an wood eco bonus civ might provide a decent enough of an initial wood bank in feudal age, to then to use this open market model to part mitigate the 30% tribute loss when flinging wood into Saracens ok-ish archers.     
+This unit needs market fair price ratio set to 12:7 for food...  
+  
+Any 100 batch of food buy/sell made changes fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal price  
+  
+Market price can be immediately be set by (pole) player asap with initial farms + dark age up gen after building market, focus is then for them to stay feudal and build max farms/stone-walls and maintain open market prices with as much food gen as possible, their objective is now to sell food to the (sarison) who also buy castle age food from open market at the 12:7 rate, as well as any additional food at this set price for later use in castle age troop prodction. Either way the saracens player focus is just to mine gold in feudal age onwards and to continue buying food from the open market.
+  
+Note gold tiles are scarce.  
+  
+Poles max intial food peak at feudal to set market price seem grim, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat to buy castle for the saracen.     
 
 
   
