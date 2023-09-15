@@ -61,10 +61,10 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
-Team strat to test in-game...  
+## Team strat to test in-game...  
 
 2-player Burgundian caste age cavalier fling, poles to SELL-FOOD and SEND-GOLD. Need to test trial the universal market value drop of food when sold in excess for the Burgundian player to buy, hopefully without the other team noticing market prices of food drop. Burgundian to try hit that 105 res sweet point for buying food to be more efficient then tribute cost of 30% sending food direct.   
   
-Hopefully, by risking the open market prices I wonder how much loss in res could potentially be saved from this indirect tribute, how much food needs to be sold by pole for this needs to be worth without going overboard too... so perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a direct player-player food and gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)       
+Hopefully, by risking the open market prices I wonder how much loss in res could potentially be saved from this indirect tribute, how much food needs to be sold by pole for this needs to be worth without going overboard too... so perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a direct player-player food and gold send, to now using a sell/buy food model with just gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)       
 
 
