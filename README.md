@@ -73,7 +73,7 @@ Probably needs to be (saracens civ) to (saracens-pole-hybrid civ) i.e. support n
   
 Standard case::: any-civ-1) send 100 food -> any-civ-2) 70 food received... minimal time lost too.  
   
-For a knight 60 food 75 gold... So idea is to generate additional gold, but eh, say its the other way around with the desired civ-1 op unit of 75 food and 60 gold with a food>gold ratio... (Try find op castle age unit)  
+For a knight 60 food 75 gold the idea is to generate additional gold, but eh, say its the other way around with the desired civ-1 op unit of 75 food and 60 gold with a food>gold ratio... (Try find op castle age unit)  
   
 This specific unit fair price ratio needs to be 4:3 so 100 food to 80 gold market price...  
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res,  
