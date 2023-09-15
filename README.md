@@ -77,7 +77,7 @@ For a knight 60 food 75 gold... So idea is to generate additional gold, but eh, 
   
 This specific unit fair price ratio needs to be 4:3 so 100 food to 80 gold market price...  
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res,  
-So 700~ food sell gets this to 100 food to 80 gold spend in fair price for initial market conditions to be set.  
+So 700~ food sell gets this to 100 food to 80 gold in fair price for initial market conditions to be set.  
   
 After market setup, remaining (saracen-pole) feudal food bank to market interaction now equates to:::  
 (100-food:76-gold)  
