@@ -61,21 +61,21 @@ The Extra button one works well with sending vils from TC back to work (with rig
 it also can be used to cancel the way point being set on the Extrabutton2 spam end,  
 when done spamming tap Extrabutton1 keeping current active way point unchanged.
   
-## Strat potential to use feudal age eco civs initial food/wood bank to fling that res to ally Saracens civ through the open market under enemy radar insted of using tribute to minimise the 30% loss.             
-Thought it was more then just 10% intial food farm bonus on the poles but eh...  
-  
-Example might be (Saracens) with (Pole support civ)     
-  
-For (Saracens) Battle Elephant: 120 Food, 70 Gold  
-  
-This unit needs fair price ratio set to 12:7 for food...  
-  
-Any 100 batch of food sell made drops fair price by fixed amount of 3,  
-(100-58)/3 = 1400 food  
-  
-Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat even if stay dark age for 500 food bank no market or stone wall defense... pointless idea for now with poles food :c   
-  
-Maybe choosing an wood eco bonus civ might provide a decent enough of an initial feudal age wood bank to fling into Saracens for their ok-ish archers instead.      
+### Strat potential to use feudal age eco civs initial food/wood bank to fling that res to ally Saracens civ through the open market under enemy radar insted of using tribute to minimise the 30% loss.
+
+Example might be (Saracens) with (Pole support civ)  
+Thought it was more then just 10% intial food farm bonus on the poles but eh...
+
+For (Saracens) Battle Elephant: 120 Food, 70 Gold
+
+This unit needs fair price ratio set to 12:7 for food...
+
+Any 100 batch of food sell made drops fair price by fixed amount of 3,
+(100-58)/3 = 1400 food
+
+Poles max intial food peak at feudal, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat even if stay dark age for 500 food bank no market or stone wall defense... pointless idea for now with poles food :c
+
+Maybe choosing an wood eco bonus civ might provide a decent enough of an initial feudal age wood bank to fling into Saracens for their ok-ish archers instead.   
 
 
   
