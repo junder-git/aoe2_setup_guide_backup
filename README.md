@@ -67,13 +67,12 @@ Need to test trial the impact on the universal market value drop of resource whe
 
 By risking the open market prices in this way the 30% loss in food res sent could potentially be part mitigated by an 'indirect' tribute idea with gold received, to calculate how much total food needs to be sold by pole and in what manner for this to be efficient is determined by the initial food investment required for the optimal going food price at batch buy matched to the cost ratio of a single cavalier food:gold=50:35=10:7, plus the additional gold received at 30% loss to then either further batch buy food or create units to gain max gold:food quantity ratio for castle age unit spam of the cavalier.  
   
-Next day a few tests::  
-Needs to be saracens to saracens buy sell which is meh to get any value in this:  
+Next day a few tests::- Needs to be saracens to saracens buy sell which is meh to get any value in this:  
   
 First case::: player-1) send 100 food -> player-2) 70 food received  
   
 Knight is 60 food 75 gold... So idea is to generate additional gold not additional food as well.  
-But anyway, say its the other way around with 75 food and 60 gold...  
+But anyway, say its the other way around with 75 food and 60 gold or food>gold ratio op unit...  
    
 Fair price ratio for this unit needs to be 100 food to 80 gold...  
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res,  
