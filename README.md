@@ -79,5 +79,5 @@ Fair price ratio for this unit needs to be 4:3 so 100 food to 80 gold...
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res,  
 So 700~ food send gets this to 100 food to 80 gold spend in fair price for intial market conditions to be set.  
   
-Second case after intial market setup::: player-1) send 100 gold -> player-2) 70 gold recived -> player-2) buy food / create troops.    
+Second case after intial market setup::: player-1) send 100 gold -> player-2) 70 gold recived -> player-2) buy food / create troops. Player one focus now on keeping fair market price at 4:3 every buy/sell made.    
   
