@@ -67,6 +67,6 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   
 Hopefully, by risking the open market prices I wonder how much loss in res could potentially be saved from this indirect tribute, how much food needs to be sold by pole for this needs to be worth without going overboard too... so perhaps a constant exchange of selling food in the right batches for the burgundian to buy will help discover the optimal trade values in the open market to mitigate some of the 30% loss through a direct player-player food and gold send, to now using a sell/buy food model with just gold send. (Selling of food applies to food gold units so no archers unless we sold wood buy wood send gold instead)   
 
-The optimal open market prices are determined by the actual cost of a single units ratio of food to gold cost, to get the optimal amount of both quantities for max units for the burgundian to create cavs.  
+The optimal open market prices are determined by the cost of a single units ratio of food/wood to gold, the 30% gold loss from gold send and the bought food price, to get the optimal amount of both quantities for max unit creation to burgundian cav army in castle age push for end game.   
 
 
