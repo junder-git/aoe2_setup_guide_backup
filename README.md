@@ -72,15 +72,12 @@ Needs to be saracens to saracens buy sell which is meh to get any value in this:
   
 First case::: player-1) send 100 food -> player-2) 70 food received  
   
-Knight is 60 food 75 gold...  
-  
-So idea is to generate additional gold not additional food as well.  
-  
+Knight is 60 food 75 gold... So idea is to generate additional gold not additional food as well.  
 But anyway, say its the other way around with 75 food and 60 gold...  
    
 Fair price ratio for this unit needs to be 100 food to 80 gold...  
-  
 Selling 100 batch of food drops fair price by fixed amount of 3 no matter total available res,  
+So 700~ food send gets this to 100 food to 80 gold spend in fair price for intial market conditions to be set.  
   
-So 700~ food send gets this to 100 food to 80 gold spend in fair price...  
-
+Second case after intial market setup::: player-1) send 100 gold -> player-2) 70 gold recived -> player-2) buy food / create troops.    
+  
