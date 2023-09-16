@@ -65,11 +65,8 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Feudal age ((Poles)) to fling food to open market for feudal age Saracen ally to buy.  
-Say intial market investment made by pole goes through at 1200 food in feudal to get ten battle elephants food worth delivered, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to the 100:100 true value it then the sum up the integers from 64 to 100 in intervals of 3 with +5% per interval per tax:
-Output main.py:  
-1200 gold  
-
 Output of main2.py:   
+  
 The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food
 
  From poles food bank of 5000 you could recieve tribute of: 3500 food
