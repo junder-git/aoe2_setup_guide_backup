@@ -65,7 +65,8 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Feudal age ((Poles/food-eco)) to fling food to open market for feudal age Saracen ally to buy.  
-- Poles intial food farm lay only 10% thought was higher...  
+Poles intial food farm lay only 10% thought was higher  
+  
 Output of main2.py 3000 food bank var:    
   
 The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food  
