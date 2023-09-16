@@ -67,8 +67,10 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ### Feudal age ((Poles)) to fling food to open market for feudal age Saracen ally to buy.  
 True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Excess food is to be sold by pole player to impact food cost on the open market. In such a way that tribute becomes closer to the 5% loss asymptote for food value then 30% fixed loss for food value...  
     
-Say intial market investment made by pole goes through at 1200 food in feudal to get ten battle elephants food worth delivered, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to 100:100 true value it then the sum up integers from 64 to 100 in intervals of 3 with 5% per interval tax: 1200 gold  
-so 1200 food costs them 1200 gold tax to recieve it via open market vs 400 food tax direct... in terms of elephants that 400 food fixed loss is only worth 234 gold tax... to go from 1200 down to 235 in gold tax for this 1200 food alone is going to require a huge sell of initial food to hit the open market first... just to get a game winning ten elephants xD...  
+Say intial market investment made by pole goes through at 1200 food in feudal to get ten battle elephants food worth delivered, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to the 100:100 true value it then the sum up the integers from 64 to 100 in intervals of 3 with +5% per interval tax:  
+1200 gold  
+   
+so 1200 food costs them 1200 gold tax to recieve it via open market vs standard 400 food tax direct tribute... in terms of elephants that 400 food tax only worth 234 in gold... to go from 1200 gold tax down to 234 in gold tax to pay for this 1200 food alone is going to require a huge sell of initial food to hit the open market first... just to get a game winning ten elephants xD...  
   
 For (Saracens) Battle Elephant: 120-Food:70-Gold  
 This unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant all in gold from the open market.      
