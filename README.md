@@ -64,23 +64,22 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
   #  
     
-### Poles to fling food to Saracen elephants via the open market.
+### ((Poles)) to fling food to Saracen elephants via the open market.
 True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Food sold by pole player exists to drop food cost on the open market, effectively meaning tribute cost of food is now only a 5% loss not 30% after the huge intial market investment made by pole goes through (1400 food)... note this food can easily be bought by others now.  
     
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
+So, this unit needs market fair price ratio of food:gold to be 100:58 or lower, if saracen can focus on only gold production, then half of it or less is now going to be able to buy food for elephants. To get to this stage any 100 batch of food buy/sell made changes market fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal market true value for an elephant.      
   
-So, unit needs market fair price ratio food:gold set to 100:58...  
+-> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market.  
   
-Any 100 batch of food buy/sell made changes fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal market true value gold price of an elephant.  
-If saracen has gold production only then half of it or less is now going to buy food at castle age production.  
+Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
   
-Market prices will have to be set by (pole) before castle age elephant production is ready, focus is then for them to stay feudal and build max farms/stone-walls and maintain open market prices with as much food gen as possible to keep up with ongoing purchases from the saracen at the desired rate. Saracens player focus is to just mine gold in feudal age which is (x) amount faster then food gen (quite a bit faster i hear) from then onwards to continue buying food from the open market. -> Castle age 800 food cost come from where exactly is unsure atm, to calculate its self worth in this strats end game its probably valued around some cost factor in food cost of the total army, so like army value and castle age food value 50:50 split, so to by food in market for castle might be worth more then elephants going rate... undecided here. 
+Poles dark age: build order total:(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep gathered => loom + click up  
+Poles feudal age: build order total:(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
   
-From a different angle the idea is to end the game with saracens castle age + elephant units and poles feudal stuck on food gen, so techincally, Pole just keeps selling excess food pushing any food cost on the open market down into the dirt, for the saracen to pick up and buy at any time it goes below the 100:58 rate for an elephant...    
-  
-Note gold tiles are scarce and can run out for saracen.  
-  
-Poles max intial food peak at feudal to set market price seem grim, say 10 farms (175 each no upgrades) surrounding 2 folwark can be made, thats only 175 initial food from the 10% + dark age, so not really viable strat to buy castle for the saracen.     
+Saracen dark age: build order (3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
+Saracen feudal age: build order (5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
+Saracen castle age: spam elephants  
 
 
   
