@@ -65,7 +65,7 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Feudal age ((Poles)) to fling food to open market for feudal age Saracen ally to buy.  
-True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Excess food is to be sold by pole player to impact food cost on the open market. In such a way that tribute becomes closer to 5% loss for food then 30% for saracens. 
+True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Excess food is to be sold by pole player to impact food cost on the open market. In such a way that tribute becomes closer to the 5% loss asymptote for food value then 30% fixed loss for food value...  
     
 Say intial market investment made by pole goes through at 1000 food in feudal, thats 10 batches, so -3 over 100:100 and is now 100:70 true value for saracen to buy food. If they buy back to 100:100 true value it costs them (70+30)+5%!(in steps of three) gold (70+73+76... seek python)    
 The sum of integers from 70 to 100 in intervals of 3 with 5% per interval is: 981.75 gold 
