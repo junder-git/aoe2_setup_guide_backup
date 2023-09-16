@@ -79,16 +79,6 @@ for 1500 food lost in 5000 tribute its actually worth 875 its weight in gold to 
   
 Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
   
-Output main2.py::  
-The ideal food:gold is 100:58 for the saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food  
-From poles food bank of 5000 you could recieve tribute of: 3500 food  
-...OR...  
-Effectively buy 3500 tribute of food for: 2042 gold instead... so why/when to buy...  
-Food diff equation:::   
-for 1500 food lost in 5000 tribute its actually worth 875 its weight in gold to the saracen...  
-gold gen is much faster then food gen and by feudal age saracen will be on gold gen,  
-with food gen so low as it is the need is there to buy that additional 1500 food  
-
 ### Potential build orders  
 Poles dark age: build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
 Poles feudal age: build order, total::(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
