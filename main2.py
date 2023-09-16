@@ -1,4 +1,4 @@
-polefood=5000
+polefood=3000
 tribute=polefood*0.7
 unitrate=100/12*7
 openmarketfixedbuy=100*(100-unitrate)/3

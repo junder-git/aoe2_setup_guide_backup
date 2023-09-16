@@ -65,19 +65,21 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Feudal age ((Poles/food-eco)) to fling food to open market for feudal age Saracen ally to buy.  
-Output of main2.py:    
+Output of main2.py 3000 food bank var:    
   
-The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food
-
-From poles food bank of 5000 you could recieve tribute of: 3500 food  
+The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food  
+  
+From poles food bank of 3000 you could recieve tribute of: 2100 food  
 ...OR...  
-Effectively buy 3500 tribute of food for: 2042 gold instead... so why/when to buy...  
+Effectively buy 2100 tribute of food for: 1225 gold instead... so why/when to buy...  
 Food diff equation:::  
-for 1500 food lost in 5000 tribute its actually worth 875 its weight in gold to the saracen...          
-  
+for 900 food lost in 3000 tribute its actually worth 525 its weight in gold to the saracen...            
+   
 -> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
   
-Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
+-> Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
+  
+-> Troop production for elephants is slow  
   
 ### Potential build orders  
 Poles dark age build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
