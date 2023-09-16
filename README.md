@@ -67,10 +67,10 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ### Feudal age ((Poles)) to fling food to open market for feudal age Saracen ally to buy.  
 True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Excess food is to be sold by pole player to impact food cost on the open market. In such a way that tribute becomes closer to 5% loss for food then 30% for saracens. 
     
-Say intial market investment made by pole goes through at 1000 food in feudal, thats 10 batches, so -3 over 100:100 and is now 100:70 true value for saracen to buy food. If they buy back to 100:100 it costs them 70+30!(in steps of three) gold (70+73+76... seek python)  
-for num in range(start, end + 1, interval):
-    total += num   
-sum = 
+Say intial market investment made by pole goes through at 1000 food in feudal, thats 10 batches, so -3 over 100:100 and is now 100:70 true value for saracen to buy food. If they buy back to 100:100 it costs them 70+30!(in steps of three) gold (70+73+76... seek python)    
+The sum of integers from 70 to 100 in intervals of 3 is: 935  
+so effectively 1000 food cost them 935 gold to recive it with no 30% tax.  
+  
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
 This unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant all in gold from the open market.      
   
