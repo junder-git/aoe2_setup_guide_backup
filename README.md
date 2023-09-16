@@ -69,7 +69,8 @@ True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -
     
 Say intial market investment made by pole goes through at 1000 food in feudal, thats 10 batches, so -3 over 100:100 and is now 100:70 true value for saracen to buy food. If they buy back to 100:100 it costs them 70+30!(in steps of three) gold (70+73+76... seek python)    
 The sum of integers from 70 to 100 in intervals of 3 is: 935  
-so effectively 1000 food cost them 935 gold to recive it with no 30% tax.  
+so effectively 1000 food costs them 935 gold tax to recive it open market vs 300 food tax direct...  
+For this strat to work the saracen needs to access the food sold at some factor of gold tax much lower then that of the food tax to be worth the buy for a specific unit with food>gold cost ratio...    
   
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
 This unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant all in gold from the open market.      
