@@ -70,10 +70,7 @@ True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -
 Say intial market investment made by pole goes through at 1200 food in feudal to get ten battle elephants food worth delivered, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to the 100:100 true value it then the sum up the integers from 64 to 100 in intervals of 3 with +5% per interval tax:  
 1200 gold  
    
-so 1200 food costs them 1200 gold tax to recieve it via open market vs standard 400 food tax direct tribute... in terms of elephants that 400 food tax only worth 234 in gold... to go from 1200 gold tax down to 234 in gold tax to pay for this 1200 food alone is going to require a huge sell of initial food to hit the open market first... just to get a game winning ten elephants xD...  
-  
-For (Saracens) Battle Elephant: 120-Food:70-Gold  
-This unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant all in gold from the open market.      
+so 1200 food costs saracens 1200 gold tax to recieve it via open market vs 515 food tax to be paid by pole to send it via direct tribute of 1715 food... in terms of elephants that 515 food tax paid by the pole is only worth 300 its weight in gold... to go from 1200 gold tax down to 300 in gold tax to pay for this 1200 food alone is going to require a huge sell of initial food to hit the open market first... just to get a game winning ten elephants xD... For (Saracens) Battle Elephant: 120-Food:70-Gold so before sending 1200 food this unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant to buy its food weight in gold from the open market... so after a 2600 total sell (100:22) a 1200 food buy back can be made back to (100:58)...   the 1200 food now is bought for 546 gold tax instead of 515 food tax
   
 -> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
   
