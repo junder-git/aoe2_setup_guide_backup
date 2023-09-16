@@ -68,17 +68,17 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Food sold by pole player exists to drop food cost on the open market, effectively meaning tribute cost of food is now only a 5% loss not 30% after the huge intial market investment made by pole goes through (1400 food)... note this food can easily be bought by others now.  
     
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
-So, this unit needs market fair price ratio of food:gold to be 100:58 or lower, if saracen can focus on only gold production, then half of it or less is now going to be able to buy food for elephants. To get to this stage any 100 batch of food buy/sell made changes market fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal market true value for an elephant.      
+This unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant all in gold from the open market.      
   
--> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market.  
+-> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
   
 Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
   
-Poles dark age: build order total:(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep gathered => loom + click up  
-Poles feudal age: build order total:(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
+Poles dark age: build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
+Poles feudal age: build order, total::(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
   
-Saracen dark age: build order (3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
-Saracen feudal age: build order (5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
+Saracen dark age: build order, total::(3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
+Saracen feudal age: build order, total::(5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
 Saracen castle age: spam elephants  
 
 
