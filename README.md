@@ -82,11 +82,11 @@ with the need to buy that additional 1500 food eventually
 Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
   
 ### Potential build orders  
-Poles dark age: build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
-Poles feudal age: build order, total::(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
+Poles dark age build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
+Poles feudal age build order, total::(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
   
-Saracen dark age: build order, total::(3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
-Saracen feudal age: build order, total::(5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
+Saracen dark age build order, total::(3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
+Saracen feudal age build order, total::(5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
 Saracen castle age: spam elephants  
 
 For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
