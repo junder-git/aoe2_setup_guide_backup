@@ -69,7 +69,7 @@ Output of main2.py:
   
 The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food
 
- From poles food bank of 5000 you could recieve tribute of: 3500 food
+From poles food bank of 5000 you could recieve tribute of: 3500 food
 ...OR...
 Effectively buy 3500 tribute of food for: 2042 gold instead... so why/when to buy...
 Food diff equation:::
