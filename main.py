@@ -1,5 +1,5 @@
-start = 22
-end = 58
+start = 64
+end = 100
 interval = 3
 total = 0
 
