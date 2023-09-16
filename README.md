@@ -65,23 +65,28 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Feudal age ((Poles)) to fling food to open market for feudal age Saracen ally to buy.  
-True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Excess food is to be sold by pole player to impact food cost on the open market. In such a way that tribute becomes closer to the 5% loss asymptote for food value then 30% fixed loss for food value...  
-    
-Say intial market investment made by pole goes through at 1200 food in feudal to get ten battle elephants food worth delivered, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to the 100:100 true value it then the sum up the integers from 64 to 100 in intervals of 3 with +5% per interval tax:  
-1200 gold  
-   
-so 1200 food costs saracens 1200 gold tax to recieve it via open market vs 515 food tax to be paid by pole to send it via direct tribute of 1715 food... in terms of elephants that 515 food tax paid by the pole is only worth 300 its weight in gold... to go from 1200 gold tax down to 300 in gold tax to pay for this 1200 food alone is going to require a huge sell of initial food to hit the open market first... just to get a game winning ten elephants xD... For (Saracens) Battle Elephant: 120-Food:70-Gold so before sending 1200 food this unit needs market fair price ratio of food:gold to be 100:58 or lower. Any 100 batch of food bought or sold makes changes to market fair price by fixed amount of +/-3, so (100-58)/3 = 1400 food to get this ideal true value price ratio set for a saracen elephant to buy its food weight in gold from the open market... so after a 2600 total sell (100:22) a 1200 food buy back can be made to (100:58)...   the 1200 food now is bought for 546 gold tax instead not 300... so where has initial fixed sell amount gone wrong...  
+True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ.  
+At base market value 1200 food in feudal to get ten battle elephants food worth delivered on open market, thats 12 batches of food sent, so -3 over 100:100 is now 100:64 true value for saracen to buy food. If they buy back to the 100:100 true value it then it sums up the integers from 64 to 100 in intervals of 3 with +5% per interval tax:  
+Output main.py::  
+1200~ gold...    
   
--> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
-  
-Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
-  
+Output main2.py::  
+The ideal food:gold is 100:58 for the saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food  
+From poles food bank of 5000 you could recieve tribute of: 3500 food
+...OR...
+Effectively buy 3500 tribute of food for: 2042 gold instead... so why/when to buy...
+Food diff equation:::
+for 1500 food lost in 5000 tribute its actually worth 875 its weight in gold to the saracen...gold gen is much faster then food gen and by feudal age saracen will be on gold gen,with food gen so low as it is the need is there to buy that additional 1500 food
 Poles dark age: build order, total::(2 houses 2 folwark 1 lumbercamp x farms) 7/25 on wood 18/25 farms after hunt+sheep   gathered => loom + click up  
 Poles feudal age: build order, total::(200-cost stone walls 5 houses 3 folwork 2 lumbercamp 18+x farms)     
   
 Saracen dark age: build order, total::(3 houses 1 lumbercamp 1 minecamp on gold 1 barracks) x/25 on wood x/25 on gold after hunt+sheep gathered => click up  
 Saracen feudal age: build order, total::(5 houses market blacksmith 2 stables 2 minecamp on gold) if food < 100:58 buy => click up   
 Saracen castle age: spam elephants  
+
+For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
+  
+Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.
 
 
   
