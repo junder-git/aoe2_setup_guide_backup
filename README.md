@@ -65,7 +65,7 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Poles to fling food to Saracen elephants via the open market.
-True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Consider food sold by pole is their to simply maintain the +/-5 food being bought by the saracen on open market, effectively meaning tribute cost of food is now only a 5% loss not 30%... (one way bargin for the saracen but they exaust gold tiles also in order to achieve this and open trade must go under the radar)     
+True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Food sold by pole player exists to maintain the ideal elephant going rate for the saracen on open market, effectively meaning tribute cost of food is now only a 5% loss not 30% after intial market has been set (1400 food)... its a one way bargin for the saracen and they need to exaust gold tiles to achieve this with an un-interupted open trade)     
     
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
   
