@@ -65,13 +65,14 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
   #  
     
 ### Poles to fling food to Saracen elephants via the open market.
-True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Food sold by pole player exists to maintain the ideal elephant going rate for the saracen on open market, effectively meaning tribute cost of food is now only a 5% loss not 30% after the huge intial market investment by pole has been made (1400 food)... its a one way bargin for the saracen though and they need to exaust gold tiles to achieve this with an un-interupted open trade route.     
+True market value is refelcted as +/-5 for Saracens and +/-30 on any other civ -> Food sold by pole player exists to drop food cost on the open market, effectively meaning tribute cost of food is now only a 5% loss not 30% after the huge intial market investment by pole has been made (1400 food)... note this food can easily be bought by others.  
     
 For (Saracens) Battle Elephant: 120 Food, 70 Gold  
   
 So, unit needs market fair price ratio food:gold set to 100:58...  
   
-Any 100 batch of food buy/sell made changes fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal market true value price for elephants.    
+Any 100 batch of food buy/sell made changes fair price by fixed amount of +/-3, (100-58)/3 = 1400 food to get ideal market true value gold price of an elephant.  
+If saracen has gold production only then half of it or less is now going to buy food at castle age production.  
   
 Market prices will have to be set by (pole) before castle age elephant production is ready, focus is then for them to stay feudal and build max farms/stone-walls and maintain open market prices with as much food gen as possible to keep up with ongoing purchases from the saracen at the desired rate. Saracens player focus is to just mine gold in feudal age which is (x) amount faster then food gen (quite a bit faster i hear) from then onwards to continue buying food from the open market. -> Castle age 800 food cost come from where exactly is unsure atm, to calculate its self worth in this strats end game its probably valued around some cost factor in food cost of the total army, so like army value and castle age food value 50:50 split, so to by food in market for castle might be worth more then elephants going rate... undecided here. 
   
