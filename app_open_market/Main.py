@@ -1,6 +1,3 @@
-def makeBank(f=100, w=100, g=100, s=100):
-    return {"food":f, "wood":w, "gold":g, "stone":s}
-
 if __name__ == "__main__":
     from Gui import Gui
     from Market import Market
