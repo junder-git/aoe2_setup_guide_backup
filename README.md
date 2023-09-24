@@ -1,4 +1,4 @@
-# THE ONE KEY BUILD
+# THE ONE KEY WIN
 
 Make the following changes to make this script functional
 
