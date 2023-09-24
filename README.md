@@ -82,7 +82,7 @@ any_civ  ==> 100(+/-)3 :: 100.30%.gold
 SARACENS ==> 100(+/-)3 :: 100.5%.gold  
 ```  
 Output of main2.py 3000 food bank var:    
-The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: (100-1389 food    
+The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: 1389 food    
   
 From poles food bank of 3000 you could recieve tribute of: 2100 food  
 ...OR...  
