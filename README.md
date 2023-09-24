@@ -83,7 +83,7 @@ for 900 food lost in 3000 tribute its actually worth 525 its weight in gold to t
   
 This idea relies on minimising food/wood waste with the higher gold gen rates, so for it to be effective the amount of food lost in tribute that needs to be bought back before castle age troop production needs to be greater then the 1389 food set market price for an elephant... This totals to a minimum sell of 2381 food for the battle elephant via the open market from the pole, for the saracen to buy at 1389 gold for this buy back to have any time value. 2v2 pretty tricky but add a few players and might be possible to break bank this way.             
    
--> For now castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
+-> For now Saracen castle age 800 food cost can also come from any going rate < 100:58 in the open market too just cus...    
   
 -> Note gold tiles are scarce and can run out for saracen in castle age pretty rapid.  
   
