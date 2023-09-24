@@ -68,18 +68,21 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ### Pre-requisite:(Feudal->Castle Saracen ally click up) -> Saracen to sell remaining wood for feudal age Poles to buy for initial-food-eco fling back to castle age saracens to buy, all done via the open market season timing...  
 ### The idea here is to switch out all food/wood waste made in tribute with gold gen. Requires an op troop where food.value > gold.value (so Elephant/cammel). (Gold tiles are scarce)               
 ((Poles intial food farm lay only 10% thought was higher... perhaps horse collar can help))    
-((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))        
+((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))  
+  
+1)Tribute->30%.loss.civ.independent  
+2)Buy/sell->30%.true.value.civ.dependent +/-3 true value per buy/sell respectively    
+3)Buy/sell->5%.true.value.SARACENS +/-3 true value per buy/sell respectively  
   
 Output of main2.py 3000 food bank var:    
-  
-The ideal food:gold is 100:58 for saracen elephant, so open market going rate for food is set by an initial sell of: 1389 food  
+The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: 1389 food    
   
 From poles food bank of 3000 you could recieve tribute of: 2100 food  
 ...OR...  
 Effectively buy 2100 tribute of food for: 1225 gold instead... 
 ## (3000.food->2100.food) VS (3000.food->2100.food)+1225.gold.cost  ...why even bother to pay to recieve food when it could be free.      
 Food diff equation:::  
-for 900 food lost in 3000 tribute its actually worth 525 its weight in gold to the castle age saracen elephant...   
+for 900 food lost in 3000 tribute its actually worth 525 its weight in gold to the castle age saracen elephant (5% market true value)...   
   
 This idea relies on minimising food/wood direct tribute send waste with the higher villager gold gen rates, so for it to be effective the amount of food lost in tribute that needs to be bought back before castle age troop production needs to be greater then the 1389 food set market price for an elephant... This totals to a minimum sell of 2381 food for the battle elephant via the open market from the pole, for the saracen to buy at 1389 gold for this buy back to have any time value. 2v2 pretty tricky but add a few players and might be possible to break bank this way.             
    
