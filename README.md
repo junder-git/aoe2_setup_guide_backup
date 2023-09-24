@@ -71,12 +71,12 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))  
 ``` Bash  
 Tribute:
-30%.res loss
+100.res -30%.res
 ```  
 ``` Bash
-Open market true value per (buy/sell) from any player:  
-any_civ  ==> 100(+/-)3 ::: 100.-30%.gold     
-SARACENS ==> 100(+/-)3 ::: 100.-5%.gold  
+True value per (buy/sell) from any player always starts at 100:100.x% ratio after any market is first established on the map:  
+any_civ  ==> 100(+/-)3 :: 100.30%.gold     
+SARACENS ==> 100(+/-)3 :: 100.5%.gold  
 ```  
 Output of main2.py 3000 food bank var:    
 The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: (100-1389 food    
