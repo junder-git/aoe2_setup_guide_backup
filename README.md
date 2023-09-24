@@ -67,7 +67,7 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ## Open season the movie, but for aoe2de market prices:  
 ### Pre-requisite:(Feudal->Castle Saracen ally click up) -> Saracen to sell remaining wood for feudal age Poles to buy for initial-food-eco fling back to castle age saracens to buy all via the open market...  
 ### The idea here is to switch out all food/wood waste made in tribute with gold gen. Requires an op troop where food.value > gold.value (so Elephant/cammel).               
-((Poles intial food farm lay only 10% thought was higher...))    
+((Poles intial food farm lay only 10% thought was higher... perhaps horse collar can help))    
 ((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))        
   
 Output of main2.py 3000 food bank var:    
