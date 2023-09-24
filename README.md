@@ -71,11 +71,11 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))  
   
 1)Tribute->30%.loss.civ.independent  
-2)Buy/sell->30%.true.value.civ.dependent +/-3 true value per buy/sell respectively    
-3)Buy/sell->5%.true.value.SARACENS +/-3 true value per buy/sell respectively  
-  
+2)Standard civ ==> 100(+/-3):::100(30%) per buy/sell      
+3)SARACENS ==> 100(+/-3):::100(5%) per buy/sell   
+   
 Output of main2.py 3000 food bank var:    
-The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: 1389 food    
+The ideal castle age bank ratio is 100.food:58.gold for saracen to spam elephant, so open market going rate for food is set by an initial sell of: (100-1389 food    
   
 From poles food bank of 3000 you could recieve tribute of: 2100 food  
 ...OR...  
