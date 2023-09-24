@@ -63,9 +63,13 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 
   #  
   #  
-    
-### Feudal age ((Poles/food-eco)) to fling food to open market for feudal age Saracen ally to buy... ((No such thing as Saracen elephants xD))    
-Poles intial food farm lay only 10% thought was higher  
+
+## Open season the movie, but for aoe2de market prices:  
+### Feudal age Poles/initial-food-eco fling via open market for feudal->castle age Saracen ally to buy...      
+Poles intial food farm lay only 10% thought was higher...  
+Saracen to click up to castle then sell all remaining wood...  
+Pole to buy wood for initial farm lay and sell all food...  
+((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))        
   
 Output of main2.py 3000 food bank var:    
   
