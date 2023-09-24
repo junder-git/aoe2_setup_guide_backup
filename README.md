@@ -71,10 +71,13 @@ when done spamming tap Extrabutton1 keeping current active way point unchanged.
 ((This strat requires unique dark age to feudal age villager worker spead per civ for the team to gen max elephants via open market)) ((But no such thing as Saracen elephants xD))  
 ``` Bash  
 Tribute:
+
 100.res -30%.res
 ```  
 ``` Bash
-True value per (buy/sell) from any player always starts at 100:100.x% ratio after any market is first established on the map:  
+True value per (buy/sell) from any player always starts at 100:100.x% ratio
+after any market is first established on the map:
+  
 any_civ  ==> 100(+/-)3 :: 100.30%.gold     
 SARACENS ==> 100(+/-)3 :: 100.5%.gold  
 ```  
